@@ -1,8 +1,6 @@
 # Secumint
 SecuMint: Máquina Virtual de OSINT para Auditoria y Pentesting
 
-SecuMint: Máquina Virtual de OSINT para Auditoria y Pentesting
-
 Introducción
 En la ciberseguridad, la necesidad de herramientas robustas y accesibles para realizar auditorías y recolección de información se ha vuelto crucial. SecuMint es una máquina virtual creada específicamente para satisfacer estas necesidades en el ámbito de la autoría y el pentesting en OSINT. Basada en Linux Mint 21.3 "Virginia", SecuMint no solo centraliza una amplia gama de herramientas esenciales, sino que también organiza y facilita su uso mediante una interfaz gráfica personalizada.
 Este artículo explorará en profundidad las características, herramientas instaladas, y la implementación de SecuMint, destacando su utilidad para los profesionales de la ciberseguridad.
