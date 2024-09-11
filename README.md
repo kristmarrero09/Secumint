@@ -157,3 +157,9 @@ En el navegador **Firefox**, se ha creado una organización meticulosa de los ma
 **SecuMint** es más que una simple máquina virtual; es una plataforma integral que reúne las mejores herramientas de **OSINT** y **pentesting** en un entorno accesible y bien organizado. Con su interfaz gráfica personalizada, organización lógica de herramientas y accesibilidad universal, **SecuMint** es una herramienta indispensable para cualquier profesional de la ciberseguridad.
 
 **SecuMint** facilita no solo el acceso a una amplia gama de herramientas, sino que también optimiza el flujo de trabajo desde la recolección de información hasta la generación de informes detallados, todo dentro de un entorno diseñado para maximizar la productividad y la eficiencia.
+
+---
+
+## **Descarga del .iso**
+
+Contactame al correo kristmarrero@hotmail.com o a mi linkedin para brindarte la .iso
