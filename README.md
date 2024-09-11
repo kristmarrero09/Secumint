@@ -162,4 +162,4 @@ En el navegador **Firefox**, se ha creado una organización meticulosa de los ma
 
 ## **Descarga del .iso**
 
-Contactame al correo kristmarrero@hotmail.com o a mi linkedin para brindarte la .iso
+Contactame al correo kristmarrero@hotmail.com o a mi linkedin para brindarte la .iso https://www.linkedin.com/in/kristophermarrero/.
